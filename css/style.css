@@ -21,21 +21,21 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background:white;
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: black;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: .5em;
 }
 
@@ -52,12 +52,13 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1em
 }
 
 a {
   color: black;
-  text-decoration: none;
+  text-decoration: underline;
+  font-size: 0.7em;
 }
 
 a:hover {
